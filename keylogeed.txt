@@ -1,0 +1,18 @@
+2024-08-17 18:54:51,815: Special key pressed: Key.shift
+2024-08-17 18:54:52,232: Key pressed: H
+2024-08-17 18:54:52,852: Key pressed: e
+2024-08-17 18:54:53,134: Key pressed: l
+2024-08-17 18:54:53,285: Key pressed: l
+2024-08-17 18:54:53,472: Key pressed: o
+2024-08-17 18:54:53,956: Special key pressed: Key.space
+2024-08-17 18:54:54,168: Special key pressed: Key.shift
+2024-08-17 18:54:54,394: Key pressed: E
+2024-08-17 18:54:54,622: Key pressed: v
+2024-08-17 18:54:54,794: Key pressed: e
+2024-08-17 18:54:55,259: Key pressed: r
+2024-08-17 18:54:55,509: Key pressed: y
+2024-08-17 18:54:55,941: Special key pressed: Key.shift
+2024-08-17 18:54:56,154: Key pressed: O
+2024-08-17 18:54:56,368: Key pressed: n
+2024-08-17 18:54:56,572: Key pressed: e
+2024-08-17 18:54:57,974: Special key pressed: Key.esc
